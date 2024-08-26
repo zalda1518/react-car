@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-carrito-de-compras/static/css/main.f29d9aa2.css",
+    "main.js": "/react-carrito-de-compras/static/js/main.dc5d5f42.js",
+    "index.html": "/react-carrito-de-compras/index.html",
+    "main.f29d9aa2.css.map": "/react-carrito-de-compras/static/css/main.f29d9aa2.css.map",
+    "main.dc5d5f42.js.map": "/react-carrito-de-compras/static/js/main.dc5d5f42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29d9aa2.css",
+    "static/js/main.dc5d5f42.js"
+  ]
+}
